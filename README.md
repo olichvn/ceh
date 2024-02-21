@@ -1,7 +1,7 @@
 # ceh
 
-https://github.com/TheCyberpunker/CEH-Practical-Notes/blob/main/8%20-%20CEH-Notes.md 
-https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master 
+https://github.com/TheCyberpunker/CEH-Practical-Notes/blob/main/8%20-%20CEH-Notes.md \n
+https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master \n
 https://github.com/cmuppin/CEH 
 https://github.com/infovault-Ytube/CEH-Practical-Notes 
 https://github.com/System-CTL/CEH_CHEAT_SHEET 
